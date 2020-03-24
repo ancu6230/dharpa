@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dharpa Project
-email: darpa.unilu@gmail.com
+title: DHARPA Project
+email: dharpa.unilu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   DHARPA (the Digital History Advanced Research Projects Accelerator) is out to
   change the way DH is done. We are building digital humanities methodologies and software to
@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/dharpa" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DharpaProject
-github_username:  github_here
+github_username:  DHARPA-Project
 
 # Build settings
 theme: minima
