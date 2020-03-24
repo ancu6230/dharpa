@@ -5,6 +5,10 @@
 layout: default
 #title: Home
 ---
+
+| ![test]({{site.baseurl}}/images/tuerkischer_schachspieler_racknitz3.jpg){:class="img-responsive"} |
+| :--: |
+
 ![test]({{site.baseurl}}/images/tuerkischer_schachspieler_racknitz3.jpg){:class="img-responsive"}
 
 **Welcome to the DHARPA Project website. We're glad you're here.**
