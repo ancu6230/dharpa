@@ -5,8 +5,11 @@
 layout: default
 #title: Home
 ---
-![test]({{site.url}}/images/tuerkischer_schachspieler_racknitz3.jpg){:class="img-responsive"}
-![test](ancu6230.github.io/dharpa/images/tuerkischer_schachspieler_racknitz3.jpg){:class="img-responsive"}
-<img src="https://ancu6230.github.io/dharpa/images/tuerkischer_schachspieler_racknitz3.jpg" alt="altbird" title="bird"  width="150" height="100">
+
+<!--direct explicit url link to image: this shows up-->
+<img src="https://ancu6230.github.io/dharpa/images/tuerkischer_schachspieler_racknitz3.jpg" alt="altmt" title="Mechanical Turk"  width="400" height="400">
 
 **Welcome to the DHARPA Project website. We're glad you're here.**
+
+![test]({{site.url}}/images/tuerkischer_schachspieler_racknitz3.jpg){:class="img-responsive"}
+![test]({{site.baseurl}}/images/tuerkischer_schachspieler_racknitz3.jpg){:class="img-responsive"}
