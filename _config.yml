@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   DHARPA (the Digital History Advanced Research Projects Accelerator) is out to
   change the way DH is done. We are building digital humanities methodologies and software to
   facilitate computational analysis,
-  replicability, transparency, OA publication, standardization and research dissemination.
+  replicability, transparency, open access publication, standardization and research dissemination.
 baseurl: "/dharpa" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DharpaProject
